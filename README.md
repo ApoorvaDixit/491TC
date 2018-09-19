@@ -1,3 +1,3 @@
 # 491TC
 
-Lesson git/collab.
+Lesson git/collab local edit.
